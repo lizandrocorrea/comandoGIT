@@ -1,0 +1,27 @@
+configuraciones de git
+configuracionde nombre
+git config --global user.name "Lizandro gomez"
+
+*********************************************************
+configurar correo
+git config --global user.mail lizandro.correa@outlook.com
+
+*********************************************************
+configuracion de editor de texto
+git config --global core.edit "code --wait"
+
+*********************************************************
+Para ver las cofiguraciones 
+git config --global -e
+
+*********************************************************
+configuracon para equipos que tienen winodws 
+git config --global core.autocrlf "true => para windows" + "input => para linux o mac"
+
+********************************************************
+para saber mas cofigraciones de Git 
+
+git config -h
+
+********************************************************
+
